@@ -6,7 +6,7 @@ Latest version of BTSync compiled for the Drobo FS NAS device
 ABOUT
 =====
 
-Version 1.4.106
+Version 1.4.110
 
 INSTALLATION
 ============
